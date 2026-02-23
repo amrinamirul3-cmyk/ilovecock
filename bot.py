@@ -8,7 +8,7 @@ from collections import deque
 
 # ─── Configuration ───────────────────────────────────────────────
 # Paste your Discord Bot Token here or set env variable DISCORD_TOKEN
-TOKEN = os.getenv("DISCORD_TOKEN", "MTQ3NTMwOTMwOTE0MjI0MTM3MA.G7_Dft.w2nRPRI8RyNrHFFameaD-RsA7l0pQhhLFknA2U")
+TOKEN = "MTQ3NTMwOTMwOTE0MjI0MTM3MA.G7_Dft.w2nRPRI8RyNrHFFameaD-RsA7l0pQhhLFknA2U"
 
 # ─── yt-dlp options ──────────────────────────────────────────────
 YDL_OPTS = {
